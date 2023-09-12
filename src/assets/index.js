@@ -10,30 +10,30 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
-import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
+import python from "./tech/python.png";
+import firebase from "./tech/firebase.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import flutter from "./tech/flutter.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
+import bilkent_uni from "./company/bilkent_uni.png";
+import railacoustic from "./company/railacoustic.png";
+import kobil from "./company/kobil.png";
+import enekom from "./company/enekom_log.png";
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import cartoonImgNoBg from "./my_cartoon_pic_no_bg.png";
+import webpage from "./webpage.png";
+import object_recog_gif from "./object_recog_gif.gif";
+import bookstore_gif from "./bookstore_gif.gif";
+import who_knows from "./who_knows.png";
+import bestgardeniq from "./best_garden_iq.png";
 export {
-  logo,
+  cartoonImgNoBg,
   logoColor,
   logoNoBackground,
   backend,
@@ -44,23 +44,22 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
   git,
-  html,
   javascript,
-  mongodb,
-  nodejs,
+  python,
+  firebase,
   reactjs,
-  redux,
+  flutter,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  bilkent_uni,
+  railacoustic,
+  kobil,
+  enekom,
+  webpage,
+  bestgardeniq,
+  who_knows,
+  bookstore_gif,
+  object_recog_gif,
 };

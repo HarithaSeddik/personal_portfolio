@@ -5,24 +5,24 @@ import {
   web,
   javascript,
   typescript,
-  html,
   css,
   reactjs,
-  redux,
+  flutter,
   tailwind,
-  nodejs,
-  mongodb,
+  python,
+  firebase,
   git,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  bilkent_uni,
+  railacoustic,
+  kobil,
+  enekom,
   threejs,
+  webpage,
+  github,
+  bookstore_gif,
+  object_recog_gif,
+  who_knows,
+  bestgardeniq,
 } from "../assets";
 
 export const navLinks = [
@@ -42,129 +42,120 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Mobile Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Fullstack Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Freelancer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Engineering Enthusiast",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Flutter",
+    icon: flutter,
+    hover: "Flutter",
   },
   {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Firebase",
+    icon: firebase,
+    hover: "Firebase",
   },
   {
     name: "React JS",
     icon: reactjs,
+    hover: "ReactJs",
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "JavaScript",
+    icon: javascript,
+    hover: "JavaScript",
   },
+  {
+    name: "Python",
+    icon: python,
+    hover: "Python",
+  },
+
+  {
+    name: "Typescript",
+    icon: typescript,
+    hover: "Typescript",
+  },
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
+    hover: "Tailwind CSS",
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Git",
+    icon: git,
+    hover: "Git",
   },
   {
     name: "Three JS",
     icon: threejs,
+    hover: "Three.js",
   },
   {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "CSS 3",
+    icon: css,
+    hover: "CSS 3",
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Researcher",
+    company_name: "MiNi Lab, Bilkent University",
+    icon: bilkent_uni,
+    // iconBg: "#E6DEDD",
+    iconBg: "#c92c1e",
+    date: "March 2018 - May 2019",
+    points: [
+      "Studied droplet breakup dynamics in microfluidic junctions under supervision of Assist. Prof. E. Yegan Erdem.",
+      "Conducted a research study to analyse the effects of geometry and parameters on the droplet diameter and the necking pressure in microfluidic channels.",
+      "Modeled droplet formation with COMSOL’s FEA using the Set method to solve for multiphase flows, used MATLAB for statistical analysis.",
+    ],
+  },
+  {
+    title: "R&D Engineer",
+    company_name: "Railacoustic - Enekom Energy",
+    icon: enekom,
+    // iconBg: "#E6DEDD",
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Sep 2020 - Oct 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed desktop apps with Python for automating tests using microcontroller based devices for the Sivas YHT high speed train project.",
+      "Worked on audio-analysis algorithms with Wavelet transforms using Matlab. Performed post-processing and data analysis using Python - Pandas and Numpy libraries.",
+      "Built a remote testing platform on Ubuntu Server using RaspberryPi.",
     ],
   },
+
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    title: "Mobile Software Developer",
+    company_name: "Kobil",
+    icon: kobil,
+    iconBg: "#1c19ff",
+    date: "Nov 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining mobile applications using Flutter and other related technologies.",
+      "Responsible for critical features on Istanbul's SuperApp project used by over 2.5 million users, partnered with the Istanbul Municipality.",
+      "Experience with SDK development, FCM integration, push implementation.",
+      "Refactoring fetching algorithms for improved performance.",
+      "Building and managing CI/CD pipelines.",
+      "Deploying store releases",
+      "Perfect understanding of BLOC/Cubit state management architecture.",
     ],
   },
 ];
@@ -198,67 +189,98 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Development of a Hunter Drone Platform",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Project Lead for a team of undergraduate engineers to develop a hunter-drone platform to neutralize malicious drones, sponsored by Meteksan Defense.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "OpenCV",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "C",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: object_recog_gif,
+    source_code_link:
+      "https://github.com/HarithaSeddik/Object-Tracking-Image-Recognition-with-Python-OpenCV",
+    source_code_link_2: "https://www.youtube.com/watch?v=UcJCYKdf6GM",
+    source_image: github,
+    source_image_2: webpage,
   },
   {
-    name: "Job IT",
+    name: "Who Knows",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Mobile app that serves as a platform for finding and matching services with service providers. Includes a review system, chat, video/audio calls. Implemented with Firebase backend and Flutter.",
     tags: [
       {
-        name: "react",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Firebase",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Agora",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: who_knows,
+    source_image: github,
+    source_code_link: "https://github.com/HarithaSeddik/who_knows",
   },
   {
-    name: "Trip Guide",
+    name: "Best Garden IQ",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web e-commerce app for providing gardening equipment and supplies in the United States. Implemented with a Django admin mode backend for inventory management.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Python",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Django",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bestgardeniq,
+    source_image: webpage,
+    source_code_link: "https://www.bestgardeniq.com/AboutUs",
+  },
+  {
+    name: "Online Bookstore",
+    description:
+      "E-commerce web app, an online bookstore website, Functioning store backend handled by headless eCommerce API (commerceJS). Integrated with a payment provider (Stripe).",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Stripe",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CommerceJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bookstore_gif,
+    source_image: github,
+    source_image_2: webpage,
+    source_code_link:
+      "https://github.com/HarithaSeddik/OnlineStoreWebsite-React-CommerceJS",
+    source_code_link_2: "https://examplebookstore.netlify.app/",
   },
 ];
 
