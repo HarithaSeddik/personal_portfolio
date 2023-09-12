@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.530ce292.css",
+    "main.js": "/personal_portfolio/static/js/main.6b569f8c.js",
+    "static/js/787.fb771931.chunk.js": "/personal_portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/best_garden_iq.png": "/personal_portfolio/static/media/best_garden_iq.e092bfe34f38566cc56a.png",
+    "static/media/tripguide.png": "/personal_portfolio/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/object_recog_gif.gif": "/personal_portfolio/static/media/object_recog_gif.9e08c3a2435a3639e5a2.gif",
+    "static/media/bookstore_gif.gif": "/personal_portfolio/static/media/bookstore_gif.fa7958d60198a79e4071.gif",
+    "static/media/carrent.png": "/personal_portfolio/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/my_cartoon_pic_no_bg.png": "/personal_portfolio/static/media/my_cartoon_pic_no_bg.c33b18bff4fccb434931.png",
+    "static/media/who_knows.png": "/personal_portfolio/static/media/who_knows.bced919a48e57e699012.png",
+    "static/media/python.png": "/personal_portfolio/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/bilkent_uni.png": "/personal_portfolio/static/media/bilkent_uni.966f1df15592c1a25d61.png",
+    "static/media/enekom_log.png": "/personal_portfolio/static/media/enekom_log.c9779730604c2aae1f9d.png",
+    "static/media/webpage.png": "/personal_portfolio/static/media/webpage.d86225a25770c2d310af.png",
+    "static/media/web.png": "/personal_portfolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/personal_portfolio/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/personal_portfolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/personal_portfolio/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/flutter.png": "/personal_portfolio/static/media/flutter.23527db10f755a533946.png",
+    "static/media/github.png": "/personal_portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/logo.svg": "/personal_portfolio/static/media/logo.55ac93d127ce315b29dc8c7a742875dc.svg",
+    "static/media/firebase.png": "/personal_portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "static/media/logoColor.svg": "/personal_portfolio/static/media/logoColor.c7549fa6d5ed9b496d8e3c703e57c345.svg",
+    "static/media/logoNoBackground.svg": "/personal_portfolio/static/media/logoNoBackground.54230223e722315a14bff2ddd403a86e.svg",
+    "static/media/close.svg": "/personal_portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/threejs.svg": "/personal_portfolio/static/media/threejs.72dd02afe39ab1056bab7cf7b47e3015.svg",
+    "index.html": "/personal_portfolio/index.html",
+    "static/media/menu.svg": "/personal_portfolio/static/media/menu.d38c276ae3acb741a7d9a685bc069230.svg",
+    "main.530ce292.css.map": "/personal_portfolio/static/css/main.530ce292.css.map",
+    "main.6b569f8c.js.map": "/personal_portfolio/static/js/main.6b569f8c.js.map",
+    "787.fb771931.chunk.js.map": "/personal_portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530ce292.css",
+    "static/js/main.6b569f8c.js"
+  ]
+}
