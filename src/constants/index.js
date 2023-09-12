@@ -8,13 +8,11 @@ import {
   html,
   css,
   reactjs,
-  redux,
+  flutter,
   tailwind,
-  nodejs,
-  mongodb,
+  python,
+  firebase,
   git,
-  figma,
-  docker,
   bilkent_uni,
   railacoustic,
   kobil,
@@ -34,6 +32,10 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
+  // {
+  //   id: "tech",
+  //   title: "Tech Stacks",
+  // },
   {
     id: "contact",
     title: "Contact",
@@ -61,56 +63,56 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Flutter",
+    icon: flutter,
+    hover: "Flutter",
   },
   {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Firebase",
+    icon: firebase,
+    hover: "Firebase",
   },
   {
     name: "React JS",
     icon: reactjs,
+    hover: "ReactJs",
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "JavaScript",
+    icon: javascript,
+    hover: "JavaScript",
   },
+  {
+    name: "Python",
+    icon: python,
+    hover: "Python",
+  },
+
+  {
+    name: "Typescript",
+    icon: typescript,
+    hover: "Typescript",
+  },
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
+    hover: "Tailwind CSS",
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Git",
+    icon: git,
+    hover: "Git",
   },
   {
     name: "Three JS",
     icon: threejs,
+    hover: "Three.js",
   },
   {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "CSS 3",
+    icon: css,
+    hover: "CSS 3",
   },
 ];
 

@@ -4,6 +4,7 @@ import { styles } from "../styles";
 import { cartoonImgNoBg } from "../assets";
 import { AiFillLinkedin, AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { TypeAnimation } from "react-type-animation";
+
 const Hero = () => {
   const TypingAnimation = () => {
     return (
@@ -48,7 +49,6 @@ const Hero = () => {
         </div>
       </div>
 
-      {/* <div className="relative  left-0 right-0 top-[250px] sm:top-[350px]"> */}
       <div className="h-screen flex flex-col justify-center gap-5">
         <div className="relative mx-auto bg-gradient-to-b from-teal-500  rounded-full h-52 w-52 sm:w-72 sm:h-72 lg:h-72 lg:w-72 overflow-hidden mt-14 sm:mt-56 ">
           <img src={cartoonImgNoBg} />
