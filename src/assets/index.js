@@ -31,8 +31,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import cartoonImgNoBg from "./my_cartoon_pic_no_bg.png";
 
 export {
+  cartoonImgNoBg,
   logo,
   logoColor,
   logoNoBackground,
