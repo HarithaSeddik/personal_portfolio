@@ -5,7 +5,6 @@ import {
   web,
   javascript,
   typescript,
-  html,
   css,
   reactjs,
   flutter,
@@ -17,10 +16,13 @@ import {
   railacoustic,
   kobil,
   enekom,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
+  webpage,
+  github,
+  bookstore_gif,
+  object_recog_gif,
+  who_knows,
+  bestgardeniq,
 } from "../assets";
 
 export const navLinks = [
@@ -32,10 +34,6 @@ export const navLinks = [
     id: "work",
     title: "Work",
   },
-  // {
-  //   id: "tech",
-  //   title: "Tech Stacks",
-  // },
   {
     id: "contact",
     title: "Contact",
@@ -191,67 +189,98 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Development of a Hunter Drone Platform",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Project Lead for a team of undergraduate engineers to develop a hunter-drone platform to neutralize malicious drones, sponsored by Meteksan Defense.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "OpenCV",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "C",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: object_recog_gif,
+    source_code_link:
+      "https://github.com/HarithaSeddik/Object-Tracking-Image-Recognition-with-Python-OpenCV",
+    source_code_link_2: "https://www.youtube.com/watch?v=UcJCYKdf6GM",
+    source_image: github,
+    source_image_2: webpage,
   },
   {
-    name: "Job IT",
+    name: "Who Knows",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Mobile app that serves as a platform for finding and matching services with service providers. Includes a review system, chat, video/audio calls. Implemented with Firebase backend and Flutter.",
     tags: [
       {
-        name: "react",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Firebase",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Agora",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: who_knows,
+    source_image: github,
+    source_code_link: "https://github.com/HarithaSeddik/who_knows",
   },
   {
-    name: "Trip Guide",
+    name: "Best Garden IQ",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web e-commerce app for providing gardening equipment and supplies in the United States. Implemented with a Django admin mode backend for inventory management.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Python",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Django",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bestgardeniq,
+    source_image: webpage,
+    source_code_link: "https://www.bestgardeniq.com/AboutUs",
+  },
+  {
+    name: "Online Bookstore",
+    description:
+      "E-commerce web app, an online bookstore website, Functioning store backend handled by headless eCommerce API (commerceJS). Integrated with a payment provider (Stripe).",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Stripe",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CommerceJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bookstore_gif,
+    source_image: github,
+    source_image_2: webpage,
+    source_code_link:
+      "https://github.com/HarithaSeddik/OnlineStoreWebsite-React-CommerceJS",
+    source_code_link_2: "https://examplebookstore.netlify.app/",
   },
 ];
 

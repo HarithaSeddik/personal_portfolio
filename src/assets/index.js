@@ -25,13 +25,15 @@ import railacoustic from "./company/railacoustic.png";
 import kobil from "./company/kobil.png";
 import enekom from "./company/enekom_log.png";
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import cartoonImgNoBg from "./my_cartoon_pic_no_bg.png";
-
+import webpage from "./webpage.png";
+import object_recog_gif from "./object_recog_gif.gif";
+import bookstore_gif from "./bookstore_gif.gif";
+import who_knows from "./who_knows.png";
+import bestgardeniq from "./best_garden_iq.png";
 export {
   cartoonImgNoBg,
-  logo,
   logoColor,
   logoNoBackground,
   backend,
@@ -55,7 +57,9 @@ export {
   railacoustic,
   kobil,
   enekom,
-  carrent,
-  jobit,
-  tripguide,
+  webpage,
+  bestgardeniq,
+  who_knows,
+  bookstore_gif,
+  object_recog_gif,
 };

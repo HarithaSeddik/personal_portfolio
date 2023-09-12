@@ -23,7 +23,7 @@ const Tech = () => {
         </motion.p>
       </div>
       {/* <div className=" mt-20 grid grid-cols-2 gap-4 content-center"> */}
-      <div className=" xl:mt-12 flex-col xl:flex-row flex-col-reverse  ">
+      <div className=" xl:mt-12 mt-10 lg:mt-5 flex-col xl:flex-row flex-col-reverse  ">
         <div className="  flex-[1.2] h-[350px] ">
           <ComputersCanvas />
         </div>
