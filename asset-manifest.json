@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal_portfolio/static/css/main.530ce292.css",
-    "main.js": "/personal_portfolio/static/js/main.6b569f8c.js",
+    "main.js": "/personal_portfolio/static/js/main.75219edb.js",
     "static/js/787.fb771931.chunk.js": "/personal_portfolio/static/js/787.fb771931.chunk.js",
     "static/media/best_garden_iq.png": "/personal_portfolio/static/media/best_garden_iq.e092bfe34f38566cc56a.png",
     "static/media/tripguide.png": "/personal_portfolio/static/media/tripguide.991986c795ea140ba063.png",
@@ -29,11 +29,11 @@
     "index.html": "/personal_portfolio/index.html",
     "static/media/menu.svg": "/personal_portfolio/static/media/menu.d38c276ae3acb741a7d9a685bc069230.svg",
     "main.530ce292.css.map": "/personal_portfolio/static/css/main.530ce292.css.map",
-    "main.6b569f8c.js.map": "/personal_portfolio/static/js/main.6b569f8c.js.map",
+    "main.75219edb.js.map": "/personal_portfolio/static/js/main.75219edb.js.map",
     "787.fb771931.chunk.js.map": "/personal_portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.530ce292.css",
-    "static/js/main.6b569f8c.js"
+    "static/js/main.75219edb.js"
   ]
 }
