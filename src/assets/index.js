@@ -23,11 +23,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
+import bilkent_uni from "./company/bilkent_uni.png";
+import railacoustic from "./company/railacoustic.png";
+import kobil from "./company/kobil.png";
+import enekom from "./company/enekom_log.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -58,10 +57,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  bilkent_uni,
+  railacoustic,
+  kobil,
+  enekom,
   carrent,
   jobit,
   tripguide,
