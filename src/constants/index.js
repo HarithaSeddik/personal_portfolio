@@ -63,53 +63,63 @@ const technologies = [
   {
     name: "Flutter",
     icon: flutter,
+    iconName: "devicon-flutter-plain colored",
     hover: "Flutter",
   },
   {
     name: "Firebase",
     icon: firebase,
+    iconName: "devicon-firebase-plain colored",
     hover: "Firebase",
   },
   {
     name: "React JS",
     icon: reactjs,
+    iconName: "devicon-react-original colored",
     hover: "ReactJs",
   },
   {
     name: "JavaScript",
     icon: javascript,
+    iconName: "devicon-javascript-plain colored",
     hover: "JavaScript",
   },
   {
     name: "Python",
     icon: python,
+    iconName: "devicon-python-plain colored",
     hover: "Python",
   },
 
   {
     name: "Typescript",
     icon: typescript,
+    iconName: "devicon-typescript-plain colored",
     hover: "Typescript",
   },
 
   {
     name: "Tailwind CSS",
     icon: tailwind,
+    iconName: "devicon-tailwindcss-plain colored",
     hover: "Tailwind CSS",
   },
   {
     name: "Git",
     icon: git,
+    iconName: "devicon-git-plain",
     hover: "Git",
   },
   {
     name: "Three JS",
     icon: threejs,
+    iconName: "devicon-threejs-original",
     hover: "Three.js",
   },
   {
     name: "CSS 3",
     icon: css,
+    iconName: "devicon-css3-plain colored",
     hover: "CSS 3",
   },
 ];
