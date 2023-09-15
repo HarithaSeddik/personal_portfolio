@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_portfolio/static/css/main.530ce292.css",
-    "main.js": "/personal_portfolio/static/js/main.75219edb.js",
+    "main.css": "/personal_portfolio/static/css/main.1013dbda.css",
+    "main.js": "/personal_portfolio/static/js/main.357750d6.js",
     "static/js/787.fb771931.chunk.js": "/personal_portfolio/static/js/787.fb771931.chunk.js",
     "static/media/best_garden_iq.png": "/personal_portfolio/static/media/best_garden_iq.e092bfe34f38566cc56a.png",
     "static/media/tripguide.png": "/personal_portfolio/static/media/tripguide.991986c795ea140ba063.png",
@@ -25,15 +25,15 @@
     "static/media/logoColor.svg": "/personal_portfolio/static/media/logoColor.c7549fa6d5ed9b496d8e3c703e57c345.svg",
     "static/media/logoNoBackground.svg": "/personal_portfolio/static/media/logoNoBackground.54230223e722315a14bff2ddd403a86e.svg",
     "static/media/close.svg": "/personal_portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
-    "static/media/threejs.svg": "/personal_portfolio/static/media/threejs.72dd02afe39ab1056bab7cf7b47e3015.svg",
     "index.html": "/personal_portfolio/index.html",
+    "static/media/threejs.svg": "/personal_portfolio/static/media/threejs.72dd02afe39ab1056bab7cf7b47e3015.svg",
     "static/media/menu.svg": "/personal_portfolio/static/media/menu.d38c276ae3acb741a7d9a685bc069230.svg",
-    "main.530ce292.css.map": "/personal_portfolio/static/css/main.530ce292.css.map",
-    "main.75219edb.js.map": "/personal_portfolio/static/js/main.75219edb.js.map",
+    "main.1013dbda.css.map": "/personal_portfolio/static/css/main.1013dbda.css.map",
+    "main.357750d6.js.map": "/personal_portfolio/static/js/main.357750d6.js.map",
     "787.fb771931.chunk.js.map": "/personal_portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.530ce292.css",
-    "static/js/main.75219edb.js"
+    "static/css/main.1013dbda.css",
+    "static/js/main.357750d6.js"
   ]
 }
